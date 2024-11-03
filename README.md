@@ -94,15 +94,11 @@ El curso abarca una amplia variedad de tecnologías y herramientas, incluyendo:
 
 ## 📜 Certificación y Validez Internacional
 
-Al finalizar este curso, obtendré una **certificación internacional** que puedo añadir a mi perfil de LinkedIn. Esto me ayudará a demostrar las habilidades adquiridas en el desarrollo de aplicaciones con **Spring Framework**. 🚀
+Al finalizar este curso, obtendré una **certificación internacional** que añadiré a mi perfil de LinkedIn. Esto me ayudará a demostrar las habilidades adquiridas en el desarrollo de aplicaciones con **Spring Framework**. 🚀
 
 ---
 
-## 📅 Actualizaciones y Soporte
 
-Este curso ofrece **actualizaciones mensuales** y acceso de por vida al contenido. Además, cuento con soporte continuo del profesor, quien responde las dudas en menos de 8 horas. 👨‍🏫
-
----
 
 💼 Este repositorio no solo es mi registro de aprendizaje, sino también una referencia para futuros proyectos y un recurso para reforzar los conceptos que voy aprendiendo en el curso. ¡Explora cada ejercicio y descubre todo lo que se puede hacer con Spring Framework 6 y Spring Boot 3! 🎉
 
